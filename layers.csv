@@ -1,0 +1,10 @@
+active,uuid,displayOrder,layerGroup,label,type,visible,transparent,showLayers,url
+1,base_topo,10,BASE,Topographic,wms,1,1,0,http://maps.six.nsw.gov.au/arcgis/services/public/NSW_Topo_Map/MapServer/WmsServer
+1,lga,20,Admin,LGA,wms,1,1,5,http://maps.six.nsw.gov.au/arcgis/services/public/NSW_Administrative_Boundaries/MapServer/WmsServer
+1,streets,30,Roads,NSW Streets,vectorTileLayer,,,,https://portal.spatial.nsw.gov.au/vectortileservices/rest/services/Hosted/NSW_BaseMap_VectorTile_Streets/VectorTileServer
+1,base_dark_grey,50,BASE,Dark Grey,vectorTileLayer,,,,https://portal.spatial.nsw.gov.au/vectortileservices/rest/services/Hosted/NSW_BaseMap_VectorTile_DarkGrey/VectorTileServer
+1,base_light_grey,60,BASE,Light Grey,vectorTileLayer,,,,https://portal.spatial.nsw.gov.au/vectortileservices/rest/services/Hosted/NSW_BaseMap_VectorTile_LightGrey/VectorTileServer
+1,base_terrain,70,BASE,Terrain,vectorTileLayer,,,,https://portal.spatial.nsw.gov.au/vectortileservices/rest/services/Hosted/NSW_BaseMap_VectorTile_Terrain/VectorTileServer
+0,base_nav,80,BASE,Navigation,vectorTileLayer,,,,https://portal.spatial.nsw.gov.au/vectortileservices/rest/services/Hosted/NSW_BaseMap_VectorTile_Streets/VectorTileServer
+1,base_hybrid,90,BASE,Hybrid,vectorTileLayer,,,,https://portal.spatial.nsw.gov.au/vectortileservices/rest/services/Hosted/NSW_BaseMap_VectorTile_Hybrid/VectorTileServer
+1,base_greyscale,100,BASE,Greyscale,vectorTileLayer,,,,https://portal.spatial.nsw.gov.au/vectortileservices/rest/services/Hosted/NSW_BaseMap_VectorTile_Greyscale/VectorTileServer
